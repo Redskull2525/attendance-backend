@@ -1,0 +1,27 @@
+{
+  "name": "attendance-backend",
+  "version": "1.0.0",
+  "description": "Built with Node.js + Express. Connects to MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redskull2525/attendance-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redskull2525/attendance-backend/issues"
+  },
+  "homepage": "https://github.com/Redskull2525/attendance-backend#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  }
+}
